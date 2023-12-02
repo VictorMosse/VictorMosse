@@ -9,7 +9,7 @@ A paixão pela tecnologia é algo que tenho deis de muito novo e hoje nao e dife
 
 ### Status:
 <div align="center">
-  <a href="https://github.com/TigoNunes" target="_blank">
+  <a href="https://github.com/VictorMosse" target="_blank">
   <img height = "180" src ="https://github-readme-stats.vercel.app/api?username=VictorMosse&show_icons=true&theme=transparent&include_all_comits=true&rank_icon=github"/>
   <img height = "180" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMosse&size_weight=0.5&count_weight=0.5&theme=transparent&hide=Html"/>
 </div>
